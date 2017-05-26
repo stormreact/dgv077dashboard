@@ -12,3 +12,8 @@ The following steps would help setup the app for development locally.
 4. Run `npm start` which would open up the UI at `http://localhost:3000`.The UI gets refreshed automatically after a change in any files inside the src folder.
 
 You can run `npm run build` to generate the bundled files for production and push them too with your development changes. These files are served by Dgraph on the default port at `http://localhost:8080`.
+
+To get up and running:
+
+yarn  
+npm start  
